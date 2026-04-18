@@ -1,0 +1,40 @@
+{
+  "login": {
+    "title": "Welcome to CrowdFlow",
+    "subtitle": "Sign in to command your stadium experience",
+    "name": "Full Name",
+    "email": "Email Address",
+    "password": "Password",
+    "submit": "Secure Login"
+  },
+  "select": {
+    "title": "Find Your Venue",
+    "subtitle": "Select a city, stadium, and sport to get started",
+    "city": "Select City",
+    "stadium": "Available Stadiums",
+    "sport": "Select Sport",
+    "language": "Language",
+    "all_cities": "All Cities",
+    "all_sports": "Select Sport...",
+    "continue": "Continue to Venue"
+  },
+  "home": {
+    "welcome": "Welcome back",
+    "visiting": "Visiting",
+    "actions": "Quick Actions",
+    "restroom": "Restroom Finder",
+    "food": "Food & Drinks",
+    "seat": "Find My Seat",
+    "emergency": "Emergency",
+    "density": "Live Stadium Grid"
+  },
+  "navigate": {
+    "title": "Seat Guide",
+    "destination": "Destination",
+    "step": "Step",
+    "next": "Next Step",
+    "prev": "Previous",
+    "arrived": "Arrived",
+    "exit": "Exit Navigation"
+  }
+}
