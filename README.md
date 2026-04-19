@@ -13,6 +13,14 @@ CrowdFlow is a smart stadium management system designed to improve the real-worl
 * 🧠 AI Chat Assistant
 * 🏟️ Management Dashboard (Admin)
 
+* ## 🔐 Admin Access (For Evaluation)
+
+To access the Management Dashboard:
+
+- **Email:** admin123@gmail.com  
+- **Password:** 12345  
+
+
 ## 🎯 Goal
 
 To reduce crowd congestion, waiting time, and confusion in large stadiums by providing real-time, user-friendly assistance.
@@ -34,6 +42,6 @@ npm run dev
 
 (Add your deployed link here)
 
----
+ https://crowdflow-ten.vercel.app
 
 Built as part of a real-world problem-solving challenge.
